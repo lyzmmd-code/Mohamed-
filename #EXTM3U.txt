@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="aljazeera.mubasher" tvg-name="Al Jazeera Mubasher" group-title="News",الجزيرة مباشر
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
