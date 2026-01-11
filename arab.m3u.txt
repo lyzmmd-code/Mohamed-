@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Arab Channels 1
+https://iptv-org.github.io/iptv/countries/sa.m3u
+#EXTINF:-1,Arab Channels 2
+https://iptv-org.github.io/iptv/countries/eg.m3u
+#EXTINF:-1,Arab Channels 3
+https://iptv-org.github.io/iptv/countries/ae.m3u
+#EXTINF:-1,Arab Channels 4
+https://iptv-org.github.io/iptv/countries/dz.m3u
+#EXTINF:-1,Arab Channels 5
+https://iptv-org.github.io/iptv/countries/tn.m3u
+#EXTINF:-1,Arab Channels 6
+https://iptv-org.github.io/iptv/countries/lb.m3u
+#EXTINF:-1,Arab Channels 7
+https://iptv-org.github.io/iptv/countries/iq.m3u
+#EXTINF:-1,Arab Channels 8
+https://iptv-org.github.io/iptv/countries/ps.m3u
+#EXTINF:-1,Arab Channels 9
+https://iptv-org.github.io/iptv/countries/ma.m3u
